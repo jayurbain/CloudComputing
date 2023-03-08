@@ -50,17 +50,22 @@ References:
 - A. Adya, J. Dunagan, and A. Wolman, Centrifuge: Integrated Lease Management and Partitioning for Cloud Services, Usenix NSDI 2010. • Grid Engine: http://gridengine.sunsource.net/ 
 - Optional: Anand Rajaraman, Jeffrey D. Ullman, Mining Massive Data Sets, 2010.
 
-
 ---
 
 ### Week 1: Intro to Cloud Computing
 
+<!--
 [1. Intro to Cloud Computing](http://jayurbain.com/msoe/cs4230/slides/Cloud%20Briefing/cloud_briefing_x2.pdf) 
+-->
 
+[1. Intro to Cloud Computing](slides/cloud_briefing_x2.pdf) 
+
+[Lab 1: Introduction to Cloud Computing using AWS](https://docs.google.com/document/d/1umFyMuCpuccp9mrPfZk4ygAGBxkZIVNvUsSXPyjq8h8/edit?usp=sharing)
+<!--
 [Lab 1: Introduction to Amazon Web Services - Launching an EC2 Machine Instance](http://jayurbain.com/msoe/cs4230/cs4230-lab1-aws.pdf)  
 
 [Awesome Lab 2: Creating an Amazon Machine Image (AMI)](http://jayurbain.com/msoe/cs4230/cs4230-lab2-aws.pdf)  
-
+-->
 Reading:    
 [M. Armbrust, A. Fox, R. Griffith, A. Joseph, R. Katz, A. Konwinski, G. Lee, D. Patterson, A. Rabkin, I. Stoica, and M. Zaharia. Above the Clouds: A Berkeley View of Cloud Computing, Technical Report No. UCB/EECS-2009-28.](http://jayurbain.com/msoe/cs4230/Readings/Above%20the%20Clouds%20-%20A%20Berkeley%20View%20of%20Cloud%20Computing.pdf)
 
@@ -130,7 +135,7 @@ Reading:
 Reading:  
 [J. Dean and S. Ghemawat, MapReduce: Simplified Data Processing in Large Clusters, Communications of the ACM, 2008.](http://jayurbain.com/msoe/cs4230/Readings/MapReduce%20-%20Simplified%20Data%20Processing%20on%20Large%20Clusters.pdf)
 
-[Hadoop Documentation](http://hadoop.apache.org/common/docs/current/)
+[Hadoop Documentation](http://hadoop.apache.org)
 
 [C. Olston, B. Reed, U. Srivastava, R. Kumar, and A. Tomkins, Pig Latin: A Not-So-Foreign Language for Data Processing, ACM SIGMOD 2008.](http://jayurbain.com/msoe/cs4230/Readings/Pig%20Latin%20-%20A%20NotSoForeign.pdf)
 
@@ -182,9 +187,7 @@ Reference: (great video)
 
 ### Week 9: Data Mining: Finding Similar Sets at Scale, Minhashing  
 
-[Finding Similar Sets: Jaccard, Shingling, MinHash, and LSH](http://jayurbain.com/msoe/cs4230/slides/FindingSimilarSets.pdf)     
-
-[Minhashing and Locality Sensitive Hashing]()    
+[Finding Similar Sets: Jaccard, Shingling, MinHash, and LSH](http://jayurbain.com/msoe/cs4230/slides/FindingSimilarSets.pdf)
 
 [Lab 8: Finding similar sets](http://jayurbain.com/msoe/cs4230/cs4230-lab8-finding_similar_sets.pdf)
 
