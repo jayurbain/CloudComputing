@@ -24,7 +24,7 @@ Midterm: 20%
 Final: 20%   
 
 Office DH425:    
-T 3-4pm, Th 3-4pm 
+M and Th 4-5pm 
 
 References:  
 
