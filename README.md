@@ -76,7 +76,7 @@ References:
   
 ### Week 2: Virtual Machines
 
-[3. Virtual Machines](http://jayurbain.com/msoe/cs4230/slides/l2_VMM.pdf) 
+[3. Virtual Machines](slides/l2_VMM.pdf) 
 
 Reading:
 [Virtual Machine Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/vmm-intro.pdf)
