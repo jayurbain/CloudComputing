@@ -78,13 +78,17 @@ References:
 
 [3. Virtual Machines](slides/l2_VMM.pdf) 
 
+[Lab 2: Most Excellent Flask EC2 Web App on AWS](https://docs.google.com/document/d/1SeYCrRIlKWzPCu04Jx4rJGFggfuHj2FbDh7IVQAO0LY/edit?usp=sharing)
+
 Reading:
 [Virtual Machine Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/vmm-intro.pdf)
 [Xen and the Art of Virtualization](http://jayurbain.com/msoe/cs4230/Readings/Xen%20and%20the%20Art%20of%20Virtualization.pdf)
 
 [4. Auto Scaling Computing Clusters](http://jayurbain.com/msoe/cs4230/slides/cs4230-autoscaling-4.pdf)
 
+<!--
 [Lab 3: EBS](http://jayurbain.com/msoe/cs4230/cs4230-lab3-ebs.pdf)
+-->
 
 Reading:   
 [Amazon Web Services (AWS) Documentation](http://aws.amazon.com/documentation/)
