@@ -80,10 +80,11 @@ References:
 
 [Lab 2: Most Excellent Flask EC2 Web App on AWS](https://docs.google.com/document/d/1SeYCrRIlKWzPCu04Jx4rJGFggfuHj2FbDh7IVQAO0LY/edit?usp=sharing)
 
-Reading:
-[Virtual Machine Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/vmm-intro.pdf)
-[Xen and the Art of Virtualization](http://jayurbain.com/msoe/cs4230/Readings/Xen%20and%20the%20Art%20of%20Virtualization.pdf)
+[Lab 2: Flask Elastic Beanstalk Web App on AWS](https://docs.google.com/document/d/1KA7DlPtYOd4JO3J8fygLDxEtw36hgIoeduiac0XIPIY/edit?usp=sharing)
 
+Reading:
+[Virtual Machine Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/vmm-intro.pdf)  
+[Xen and the Art of Virtualization](http://jayurbain.com/msoe/cs4230/Readings/Xen%20and%20the%20Art%20of%20Virtualization.pdf)  
 [4. Auto Scaling Computing Clusters](http://jayurbain.com/msoe/cs4230/slides/cs4230-autoscaling-4.pdf)
 
 <!--
