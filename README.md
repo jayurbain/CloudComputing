@@ -94,9 +94,11 @@ Reading:
 Reading:   
 [Amazon Web Services (AWS) Documentation](http://aws.amazon.com/documentation/)
 
-### Week 3: Developing and Deploying Web Applications on AWS, Big Data Storage 
+### Week 3: Containers, Composing and Orchestrating Applications 
 
-[5. Web Applications]()
+[5. Intro to Docker and Containers](slides/Docker.pdf)
+
+[6. Kubernetes]()
 <!--
 Developing and Deploying Web Applications on AWS
 1) Instructions for setting up Eclipse for Web Development, development of Web command pattern with Servlet
