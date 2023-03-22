@@ -98,6 +98,8 @@ Reading:
 
 [5. Intro to Docker and Containers](slides/Docker.pdf)
 
+[Lab 4: Docker](https://docs.google.com/document/d/1O2coHp9cKl_PWLVcEVvlgebWFlIZXLntHSH0Hffa5K0/edit?usp=sharing)
+
 [6. Kubernetes]()
 <!--
 Developing and Deploying Web Applications on AWS
