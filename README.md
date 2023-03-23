@@ -100,7 +100,7 @@ Reading:
 
 [Lab 4: Docker](https://docs.google.com/document/d/1O2coHp9cKl_PWLVcEVvlgebWFlIZXLntHSH0Hffa5K0/edit?usp=sharing)
 
-[6. Kubernetes]()
+[6. Container Orchestration](slides/Container Orchestration.pdf)
 <!--
 Developing and Deploying Web Applications on AWS
 1) Instructions for setting up Eclipse for Web Development, development of Web command pattern with Servlet
@@ -110,14 +110,14 @@ Developing and Deploying Web Applications on AWS
 A Servlet and JSP Tutorial
 Servlet and JSP development with Eclipse WTP
 Miksu Vojtech - PHP Intallation Instructions
--->
+
 
 [6. Big Data Storage in Modern Databases](http://jayurbain.com/msoe/cs4230/slides/Big%20Data%20Storage%20in%20Modern%20Databases.pdf)
 
 [Optional: High Performance Database Systems](http://jayurbain.com/msoe/cs4230/slides/HighPerformanceDatabaseSystems.pdf)
 
 [7. Distributed Storage Systems. Google File System (GFS)](http://jayurbain.com/msoe/cs4230/slides/cs4230-google-file-system-3.pdf[])
-
+-->
 Reading:
 [S. Ghemawat, H. Gobioff, and S-T. Leung, The Google File System, ACM SOSP 2003.](http://jayurbain.com/msoe/cs4230/Readings/The%20Google%20File%20System.pdf)
 
