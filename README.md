@@ -82,17 +82,16 @@ References:
 
 [Lab 2: Flask Elastic Beanstalk Web App on AWS](https://docs.google.com/document/d/1KA7DlPtYOd4JO3J8fygLDxEtw36hgIoeduiac0XIPIY/edit?usp=sharing)
 
-Reading:
+[4. Auto Scaling Computing Clusters](http://jayurbain.com/msoe/cs4230/slides/cs4230-autoscaling-4.pdf)
+
+Reading:   
 [Virtual Machine Monitors](http://pages.cs.wisc.edu/~remzi/OSTEP/vmm-intro.pdf)  
 [Xen and the Art of Virtualization](http://jayurbain.com/msoe/cs4230/Readings/Xen%20and%20the%20Art%20of%20Virtualization.pdf)  
-[4. Auto Scaling Computing Clusters](http://jayurbain.com/msoe/cs4230/slides/cs4230-autoscaling-4.pdf)
+[Amazon Web Services (AWS) Documentation](http://aws.amazon.com/documentation/)   
 
 <!--
 [Lab 3: EBS](http://jayurbain.com/msoe/cs4230/cs4230-lab3-ebs.pdf)
 -->
-
-Reading:   
-[Amazon Web Services (AWS) Documentation](http://aws.amazon.com/documentation/)
 
 ### Week 3: Containers, Composing and Orchestrating Applications 
 
@@ -101,6 +100,11 @@ Reading:
 [Lab 4: Docker](https://docs.google.com/document/d/1O2coHp9cKl_PWLVcEVvlgebWFlIZXLntHSH0Hffa5K0/edit?usp=sharing)
 
 [6. Container Orchestration](slides/Container Orchestration.pdf)
+
+Reference:  
+Install Python, pip, and the EB CLI on Linux (Thanks Harry Kubiak!)     
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/eb-cli3-install-linux.html    
+
 <!--
 Developing and Deploying Web Applications on AWS
 1) Instructions for setting up Eclipse for Web Development, development of Web command pattern with Servlet
@@ -111,13 +115,6 @@ A Servlet and JSP Tutorial
 Servlet and JSP development with Eclipse WTP
 Miksu Vojtech - PHP Intallation Instructions
 
-
-[6. Big Data Storage in Modern Databases](http://jayurbain.com/msoe/cs4230/slides/Big%20Data%20Storage%20in%20Modern%20Databases.pdf)
-
-[Optional: High Performance Database Systems](http://jayurbain.com/msoe/cs4230/slides/HighPerformanceDatabaseSystems.pdf)
-
-[7. Distributed Storage Systems. Google File System (GFS)](http://jayurbain.com/msoe/cs4230/slides/cs4230-google-file-system-3.pdf[])
--->
 Reading:
 [S. Ghemawat, H. Gobioff, and S-T. Leung, The Google File System, ACM SOSP 2003.](http://jayurbain.com/msoe/cs4230/Readings/The%20Google%20File%20System.pdf)
 
@@ -125,37 +122,46 @@ Reading:
 
 [Lab 4. Elastic Load Balancing and Auto-Scaling Clusters with VPC](http://jayurbain.com/msoe/cs4230/cs4230-lab4-autoscaling-web-VPC.pdf)
 
-### Week 4: Distributed Storage Systems
+-->
 
-[8. Distributed Storage Systems. Google File System (GFS)](http://jayurbain.com/msoe/cs4230/slides/cs4230-google-file-system-3.pdf)
+### Week 4: Container Orchestration with Docker Compose and Kubernetes
 
+[Lab 5: Composing a Flask-MySQL app with docker and docker-compose](https://docs.google.com/document/d/19ehdRBdGwGS2LC5-WNqttChIFvu-iDW_HOIaU23Nw8E/edit?usp=sharing)
+
+[Lab 6: Kubernetes - not yet posted]()
+
+References:  
+
+[Docker Compose](https://docs.docker.com/compose/overview/)  
+[Kubernetes Concepts](https://kubernetes.io/docs/concepts/overview/)
+
+### Week 5: Distributed Storage Systems, Map Reduce Application Examples
+
+[6. Big Data Storage in Modern Databases](http://jayurbain.com/msoe/cs4230/slides/Big%20Data%20Storage%20in%20Modern%20Databases.pdf)
+
+[Optional: High Performance Database Systems](http://jayurbain.com/msoe/cs4230/slides/HighPerformanceDatabaseSystems.pdf)
+
+[7. Distributed Storage Systems. Google File System (GFS)](http://jayurbain.com/msoe/cs4230/slides/cs4230-google-file-system-3.pdf[])
+
+Optional content:   
+[Data-Intensive Text Processing with MapReduce.pdf (Ch. 2, 3)](http://jayurbain.com/msoe/cs4230/Data-Intensive%20Text%20Processing%20with%20MapReduce.pdf)  
+[MapReduce and DFS Applications](http://jayurbain.com/msoe/cs4230/slides/map_reduce_applications.pdf)  
+[MapReduce Application Examples](http://jayurbain.com/msoe/cs4230/slides/map_reduce_examples.pdf)
 
 Reading:  
 [S. Ghemawat, H. Gobioff, and S-T. Leung, The Google File System, ACM SOSP 2003.](http://jayurbain.com/msoe/cs4230/Readings/The%20Google%20File%20System.pdf)
 
 [WEBSEARCH FOR A PLANET: THE GOOGLECLUSTER ARCHITECTURE](http://jayurbain.com/msoe/cs4230/googlecluster-ieee.pdf)
 
-[Lab 4. Building a Neural Network in PyTorch](labs/Lab%204.%20Building%20a%20Neural%20Network%20in%20PyTorch.ipynb)
-
 [Introduction to Data Intensive Processing. Google's MapReduce](http://jayurbain.com/msoe/cs4230/slides/data_intensive.pdf)
 
+<!--
 [Lab 4. Elastic Load Balancing and Auto-Scaling Clusters with VPC - Continued](http://jayurbain.com/msoe/cs4230/cs4230-lab4-autoscaling-web-VPC.pdf)
-
-Reading:  
-[J. Dean and S. Ghemawat, MapReduce: Simplified Data Processing in Large Clusters, Communications of the ACM, 2008.](http://jayurbain.com/msoe/cs4230/Readings/MapReduce%20-%20Simplified%20Data%20Processing%20on%20Large%20Clusters.pdf)
+-->
 
 [Hadoop Documentation](http://hadoop.apache.org)
 
 [C. Olston, B. Reed, U. Srivastava, R. Kumar, and A. Tomkins, Pig Latin: A Not-So-Foreign Language for Data Processing, ACM SIGMOD 2008.](http://jayurbain.com/msoe/cs4230/Readings/Pig%20Latin%20-%20A%20NotSoForeign.pdf)
-
-[Data-Intensive Text Processing with MapReduce.pdf (Ch. 2, 3)](http://jayurbain.com/msoe/cs4230/Data-Intensive%20Text%20Processing%20with%20MapReduce.pdf)
-
-### Week 5: Map Reduce Application Examples
-
-[MapReduce Application Examples](http://jayurbain.com/msoe/cs4230/slides/map_reduce_examples.pdf)
-
-Optional content:   
-[MapReduce and DFS Applications](http://jayurbain.com/msoe/cs4230/slides/map_reduce_applications.pdf)
 
 Documentation:  
 [MapReduce Algoirthms](http://jayurbain.com/msoe/cs4230/slides/map_reduce_algo2.pdf)   
