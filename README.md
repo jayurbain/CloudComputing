@@ -124,11 +124,13 @@ Reading:
 
 -->
 
-### Week 4: Container Orchestration with Docker Compose and Kubernetes
+### Week 4: Container Orchestration with Docker Compose and Kubernetes, CAP Theorem
 
 [Lab 5: Composing a Flask-MySQL app with docker and docker-compose](https://docs.google.com/document/d/19ehdRBdGwGS2LC5-WNqttChIFvu-iDW_HOIaU23Nw8E/edit?usp=sharing)
 
 [Lab 6: Deploy a Flask API Service on Kubernetes](https://docs.google.com/document/d/1z6fkpfDdjuaPl9_zOaI7Hk-yhioZoXKSsg-jwJt1ZNE/edit?usp=sharing)
+
+[7. CAP Theorem](slides/CAP-theorem.pdf)    
 
 References:  
 
