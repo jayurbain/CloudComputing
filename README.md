@@ -139,11 +139,13 @@ References:
 
 ### Week 5: Distributed Storage Systems, Map Reduce Application Examples
 
-[6. Big Data Storage in Modern Databases](http://jayurbain.com/msoe/cs4230/slides/Big%20Data%20Storage%20in%20Modern%20Databases.pdf)
+[8. Technologies for Scalable Distribution, AWS Dynamo](slides/dynamo-5.pdf)
+
+[9. Big Data Storage in Modern Databases](http://jayurbain.com/msoe/cs4230/slides/Big%20Data%20Storage%20in%20Modern%20Databases.pdf)
 
 [Optional: High Performance Database Systems](http://jayurbain.com/msoe/cs4230/slides/HighPerformanceDatabaseSystems.pdf)
 
-[7. Distributed Storage Systems. Google File System (GFS)](http://jayurbain.com/msoe/cs4230/slides/cs4230-google-file-system-3.pdf[])
+[10. Distributed Storage Systems. Google File System (GFS)](http://jayurbain.com/msoe/cs4230/slides/cs4230-google-file-system-3.pdf[])
 
 Optional content:   
 [Data-Intensive Text Processing with MapReduce.pdf (Ch. 2, 3)](http://jayurbain.com/msoe/cs4230/Data-Intensive%20Text%20Processing%20with%20MapReduce.pdf)  
