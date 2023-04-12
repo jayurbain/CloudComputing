@@ -141,16 +141,13 @@ References:
 
 [8. Technologies for Scalable Distribution, AWS Dynamo](slides/dynamo-5.pdf)
 
-[9. Big Data Storage in Modern Databases](http://jayurbain.com/msoe/cs4230/slides/Big%20Data%20Storage%20in%20Modern%20Databases.pdf)
+[lab 17: DynamoDB Web App](https://docs.google.com/document/d/1crUDhpT3c5uzKunTMMiwFSU2IPuiN0YJKNvMcrSeTKs/edit?usp=sharing)
+
+[Optional: Big Data Storage in Modern Databases](http://jayurbain.com/msoe/cs4230/slides/Big%20Data%20Storage%20in%20Modern%20Databases.pdf)
 
 [Optional: High Performance Database Systems](http://jayurbain.com/msoe/cs4230/slides/HighPerformanceDatabaseSystems.pdf)
 
-[10. Distributed Storage Systems. Google File System (GFS)](http://jayurbain.com/msoe/cs4230/slides/cs4230-google-file-system-3.pdf[])
-
-Optional content:   
-[Data-Intensive Text Processing with MapReduce.pdf (Ch. 2, 3)](http://jayurbain.com/msoe/cs4230/Data-Intensive%20Text%20Processing%20with%20MapReduce.pdf)  
-[MapReduce and DFS Applications](http://jayurbain.com/msoe/cs4230/slides/map_reduce_applications.pdf)  
-[MapReduce Application Examples](http://jayurbain.com/msoe/cs4230/slides/map_reduce_examples.pdf)
+[Optional: Distributed Storage Systems. Google File System (GFS)](http://jayurbain.com/msoe/cs4230/slides/cs4230-google-file-system-3.pdf[])
 
 Reading:  
 [S. Ghemawat, H. Gobioff, and S-T. Leung, The Google File System, ACM SOSP 2003.](http://jayurbain.com/msoe/cs4230/Readings/The%20Google%20File%20System.pdf)
@@ -173,12 +170,18 @@ Documentation:
 
 ### Week 6: MIDTERM, Distributed Database  
 
-[MIDTERM - study guide](http://jayurbain.com/msoe/cs4230/CS4230-midterm-study-guide.pdf) 
+[MIDTERM - study guide]() 
 
+[Data-Intensive Text Processing with MapReduce.pdf (Ch. 2, 3)](http://jayurbain.com/msoe/cs4230/Data-Intensive%20Text%20Processing%20with%20MapReduce.pdf)  
+[MapReduce and DFS Applications](http://jayurbain.com/msoe/cs4230/slides/map_reduce_applications.pdf)  
+[MapReduce Application Examples](http://jayurbain.com/msoe/cs4230/slides/map_reduce_examples.pdf)
+
+<!--
 [Lab 6:]()  
 [Lab 6 Part 1: Hadoop Download and Install](http://jayurbain.com/msoe/cs4230/Hadoop/cs4230-download%20and%20install%20hadoop.pdf)   
 [Lab 6 Part 2: Hadoop Query](http://jayurbain.com/msoe/cs4230/Hadoop/hadoop%20query%20lab.pdf)  
 [Lab 6 Part 3: Hadoop MapReduce](http://jayurbain.com/msoe/cs4230/Hadoop/hadoop%20mapreduce%20lab.pdf)
+-->
 
 [Example: Hadoop WordCount with Eclipse on Cloudera QuickStart VM](http://jayurbain.com/msoe/cs4230/HadoopWordCount.zip)
 
