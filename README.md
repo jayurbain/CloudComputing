@@ -170,7 +170,7 @@ Documentation:
 
 ### Week 6: MIDTERM, Distributed Database  
 
-[MIDTERM - study guide]() 
+[MIDTERM - study guide](https://docs.google.com/document/d/1iC41RVYHphK4a7dhmrgEp9VGwJsjNEg6l7KtbMDY0EU/edit?usp=sharing) 
 
 [Data-Intensive Text Processing with MapReduce.pdf (Ch. 2, 3)](http://jayurbain.com/msoe/cs4230/Data-Intensive%20Text%20Processing%20with%20MapReduce.pdf)  
 [MapReduce and DFS Applications](http://jayurbain.com/msoe/cs4230/slides/map_reduce_applications.pdf)  
