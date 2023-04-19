@@ -143,18 +143,6 @@ References:
 
 [lab 17: DynamoDB Web App](https://docs.google.com/document/d/1crUDhpT3c5uzKunTMMiwFSU2IPuiN0YJKNvMcrSeTKs/edit?usp=sharing)
 
-[Optional: Big Data Storage in Modern Databases](http://jayurbain.com/msoe/cs4230/slides/Big%20Data%20Storage%20in%20Modern%20Databases.pdf)
-
-[Optional: High Performance Database Systems](http://jayurbain.com/msoe/cs4230/slides/HighPerformanceDatabaseSystems.pdf)
-
-[Optional: Distributed Storage Systems. Google File System (GFS)](http://jayurbain.com/msoe/cs4230/slides/cs4230-google-file-system-3.pdf[])
-
-Reading:  
-[S. Ghemawat, H. Gobioff, and S-T. Leung, The Google File System, ACM SOSP 2003.](http://jayurbain.com/msoe/cs4230/Readings/The%20Google%20File%20System.pdf)
-
-[WEBSEARCH FOR A PLANET: THE GOOGLECLUSTER ARCHITECTURE](http://jayurbain.com/msoe/cs4230/googlecluster-ieee.pdf)
-
-[Introduction to Data Intensive Processing. Google's MapReduce](http://jayurbain.com/msoe/cs4230/slides/data_intensive.pdf)
 
 <!--
 [Lab 4. Elastic Load Balancing and Auto-Scaling Clusters with VPC - Continued](http://jayurbain.com/msoe/cs4230/cs4230-lab4-autoscaling-web-VPC.pdf)
@@ -172,9 +160,25 @@ Documentation:
 
 [MIDTERM - study guide](https://docs.google.com/document/d/1iC41RVYHphK4a7dhmrgEp9VGwJsjNEg6l7KtbMDY0EU/edit?usp=sharing) 
 
+[Map Reduce](slides/map_reduce_algo.pdf)
+
+Extra content:    
 [Data-Intensive Text Processing with MapReduce.pdf (Ch. 2, 3)](http://jayurbain.com/msoe/cs4230/Data-Intensive%20Text%20Processing%20with%20MapReduce.pdf)  
 [MapReduce and DFS Applications](http://jayurbain.com/msoe/cs4230/slides/map_reduce_applications.pdf)  
 [MapReduce Application Examples](http://jayurbain.com/msoe/cs4230/slides/map_reduce_examples.pdf)
+
+[Optional: Big Data Storage in Modern Databases](http://jayurbain.com/msoe/cs4230/slides/Big%20Data%20Storage%20in%20Modern%20Databases.pdf)
+
+[Optional: High Performance Database Systems](http://jayurbain.com/msoe/cs4230/slides/HighPerformanceDatabaseSystems.pdf)
+
+[Optional: Distributed Storage Systems. Google File System (GFS)](http://jayurbain.com/msoe/cs4230/slides/cs4230-google-file-system-3.pdf[])
+
+Reading:  
+[S. Ghemawat, H. Gobioff, and S-T. Leung, The Google File System, ACM SOSP 2003.](http://jayurbain.com/msoe/cs4230/Readings/The%20Google%20File%20System.pdf)
+
+[WEBSEARCH FOR A PLANET: THE GOOGLECLUSTER ARCHITECTURE](http://jayurbain.com/msoe/cs4230/googlecluster-ieee.pdf)
+
+[Introduction to Data Intensive Processing. Google's MapReduce](http://jayurbain.com/msoe/cs4230/slides/data_intensive.pdf)
 
 <!--
 [Lab 6:]()  
