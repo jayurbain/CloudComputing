@@ -158,13 +158,9 @@ Extra content:
 [Data-Intensive Text Processing with MapReduce.pdf (Ch. 2, 3)](http://jayurbain.com/msoe/cs4230/Data-Intensive%20Text%20Processing%20with%20MapReduce.pdf)  
 [MapReduce and DFS Applications](http://jayurbain.com/msoe/cs4230/slides/map_reduce_applications.pdf)  
 [MapReduce Application Examples](http://jayurbain.com/msoe/cs4230/slides/map_reduce_examples.pdf)
-
-[Optional: Big Data Storage in Modern Databases](http://jayurbain.com/msoe/cs4230/slides/Big%20Data%20Storage%20in%20Modern%20Databases.pdf)
-
-[Optional: High Performance Database Systems](http://jayurbain.com/msoe/cs4230/slides/HighPerformanceDatabaseSystems.pdf)
-
-[Optional: Distributed Storage Systems. Google File System (GFS)](http://jayurbain.com/msoe/cs4230/slides/cs4230-google-file-system-3.pdf[])
-
+[Big Data Storage in Modern Databases](http://jayurbain.com/msoe/cs4230/slides/Big%20Data%20Storage%20in%20Modern%20Databases.pdf)
+[High Performance Database Systems](http://jayurbain.com/msoe/cs4230/slides/HighPerformanceDatabaseSystems.pdf)
+[Distributed Storage Systems. Google File System (GFS)](http://jayurbain.com/msoe/cs4230/slides/cs4230-google-file-system-3.pdf[])
 [MapReduce Algoirthms](http://jayurbain.com/msoe/cs4230/slides/map_reduce_algo2.pdf)   
 [Hadoop Commands](https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-common/CommandsManual.html)
 [Hadoop Documentation](http://hadoop.apache.org)
@@ -187,18 +183,19 @@ Extra content:
 
 [Lab 7 Part 2]() # not posted yet
 
-### Week 8: Spark, Snowflake   
+References:    
+
+[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia)
+
+[Google's BigTable](http://jayurbain.com/msoe/cs4230/slides/cs4230-googleBigTable.pdf)
+
+### Week 8: Machine Learning on Large Distributed Datasets   
 
 <!--
 [Big Data with Spark](http://jayurbain.com/msoe/cs4230/slides/spark.pdf)
 
 [Lab 7: Spark Intro](http://jayurbain.com/msoe/cs4230/cs4230-lab7-spark.pdf)
 -->
-
-Reference:  
-[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia)
-
-[Google's BigTable](http://jayurbain.com/msoe/cs4230/slides/cs4230-googleBigTable.pdf)
 
 <!--
 Reading:   
@@ -216,11 +213,13 @@ Reading:
 
 -->
 
-### Week 10: Data Mining: Frequent Item Sets
+### Week 9: Data Mining: Frequent Item Sets
 
 [Scalable Mining of Frequent Itemsets](http://jayurbain.com/msoe/cs4230/slides/dm06FPBasic.pdf)
 
 [Final Exam Review](http://jayurbain.com/msoe/cs4230/CS4230-final-exam-study-guide.pdf)
+
+### Week 10: Search, Review
 
 ### Week 11: Final Exam 
 
