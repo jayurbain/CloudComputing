@@ -148,14 +148,6 @@ References:
 [Lab 4. Elastic Load Balancing and Auto-Scaling Clusters with VPC - Continued](http://jayurbain.com/msoe/cs4230/cs4230-lab4-autoscaling-web-VPC.pdf)
 -->
 
-[Hadoop Documentation](http://hadoop.apache.org)
-
-[C. Olston, B. Reed, U. Srivastava, R. Kumar, and A. Tomkins, Pig Latin: A Not-So-Foreign Language for Data Processing, ACM SIGMOD 2008.](http://jayurbain.com/msoe/cs4230/Readings/Pig%20Latin%20-%20A%20NotSoForeign.pdf)
-
-Documentation:  
-[MapReduce Algoirthms](http://jayurbain.com/msoe/cs4230/slides/map_reduce_algo2.pdf)   
-[Hadoop Commands](https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-common/CommandsManual.html)
-
 ### Week 6: MIDTERM, Distributed Database  
 
 [MIDTERM - study guide](https://docs.google.com/document/d/1iC41RVYHphK4a7dhmrgEp9VGwJsjNEg6l7KtbMDY0EU/edit?usp=sharing) 
@@ -173,12 +165,10 @@ Extra content:
 
 [Optional: Distributed Storage Systems. Google File System (GFS)](http://jayurbain.com/msoe/cs4230/slides/cs4230-google-file-system-3.pdf[])
 
-Reading:  
-[S. Ghemawat, H. Gobioff, and S-T. Leung, The Google File System, ACM SOSP 2003.](http://jayurbain.com/msoe/cs4230/Readings/The%20Google%20File%20System.pdf)
-
-[WEBSEARCH FOR A PLANET: THE GOOGLECLUSTER ARCHITECTURE](http://jayurbain.com/msoe/cs4230/googlecluster-ieee.pdf)
-
-[Introduction to Data Intensive Processing. Google's MapReduce](http://jayurbain.com/msoe/cs4230/slides/data_intensive.pdf)
+[MapReduce Algoirthms](http://jayurbain.com/msoe/cs4230/slides/map_reduce_algo2.pdf)   
+[Hadoop Commands](https://hadoop.apache.org/docs/r2.7.1/hadoop-project-dist/hadoop-common/CommandsManual.html)
+[Hadoop Documentation](http://hadoop.apache.org)
+[C. Olston, B. Reed, U. Srivastava, R. Kumar, and A. Tomkins, Pig Latin: A Not-So-Foreign Language for Data Processing, ACM SIGMOD 2008.](http://jayurbain.com/msoe/cs4230/Readings/Pig%20Latin%20-%20A%20NotSoForeign.pdf)
 
 <!--
 [Lab 6:]()  
@@ -189,10 +179,28 @@ Reading:
 
 [Example: Hadoop WordCount with Eclipse on Cloudera QuickStart VM](http://jayurbain.com/msoe/cs4230/HadoopWordCount.zip)
 
-### Week 7: Big Table  
+### Week 7: Data Platforms, Spark
+
+[Data Platforms](https://docs.google.com/presentation/d/1wCImXY9Q3KWbhLS0q-s5ndKnrPaC9zbq4hdFOW8xK1I/edit?usp=sharing)
+
+[Lab 7 Part 1](https://docs.google.com/document/d/1mnORjsRg634MG5JCOO6dU3wGlIyBHqQPEqzJ1yOlroQ/edit?usp=sharing)
+
+[Lab 7 Part 2]() # not posted yet
+
+### Week 8: Spark, Snowflake   
+
+<!--
+[Big Data with Spark](http://jayurbain.com/msoe/cs4230/slides/spark.pdf)
+
+[Lab 7: Spark Intro](http://jayurbain.com/msoe/cs4230/cs4230-lab7-spark.pdf)
+-->
+
+Reference:  
+[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia)
 
 [Google's BigTable](http://jayurbain.com/msoe/cs4230/slides/cs4230-googleBigTable.pdf)
 
+<!--
 Reading:   
 [F. Chang, J. Dean, S. Ghemawat, W. Hsieh, D. Wallach, M. Burrows, T. Chandra, A. Fikes, and R. Gruber, Bigtable: A Distributed Storage System for Structured Data, Usenix OSDI 2006.](http://jayurbain.com/msoe/cs4230/Readings/Bigtable%20-%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.pdf)
 
@@ -200,23 +208,13 @@ Reading:
 
 [Optional: G. DeCandia, D. Hastorun, M. Jampani, G. Kakulapati, A. Lakshman, A. Pilchin, S. Sivasubramanian, P. Vosshall, amd W. Vogels,Dynamo: Amazon's Highly Available Key-value Store, ACM SOSP 2007.](http://jayurbain.com/msoe/cs4230/Readings/Bigtable%20-%20A%20Distributed%20Storage%20System%20for%20Structured%20Data.pdf)
 
-Continue work on Lab 6.
-
-### Week 8: Spark, Snowflake   
-
-[Big Data with Spark](http://jayurbain.com/msoe/cs4230/slides/spark.pdf)
-
-[Lab 7: Spark Intro](http://jayurbain.com/msoe/cs4230/cs4230-lab7-spark.pdf)
-
-Reference: (great video)   
-[Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/conference/nsdi12/technical-sessions/presentation/zaharia)
-
 ### Week 9: Data Mining: Finding Similar Sets at Scale, Minhashing  
 
 [Finding Similar Sets: Jaccard, Shingling, MinHash, and LSH](http://jayurbain.com/msoe/cs4230/slides/FindingSimilarSets.pdf)
 
 [Lab 8: Finding similar sets](http://jayurbain.com/msoe/cs4230/cs4230-lab8-finding_similar_sets.pdf)
 
+-->
 
 ### Week 10: Data Mining: Frequent Item Sets
 
@@ -226,5 +224,5 @@ Reference: (great video)
 
 ### Week 11: Final Exam 
 
-TBD
+CS 4230-011, Urbain, Wednesday 2:00PM-4:00, DH338
 
