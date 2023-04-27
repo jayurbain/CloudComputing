@@ -1,0 +1,374 @@
+import elasticsearch
+quit()
+import scispacy
+quit()
+from dash import dcc
+quit()
+import torch
+import datasets
+import numpy as np
+import matplotib.pyplot as plt
+quit()
+import tensorflow
+tensorflow.__version__
+quit()
+import pymc3
+quit()
+import pyg
+import torch
+from torch_geometric.data import Data
+edge_index = torch.tensor([[0, 1, 1, 2],
+                           [1, 0, 2, 1]], dtype=torch.long)
+x = torch.tensor([[-1], [0], [1]], dtype=torch.float)
+data = Data(x=x, edge_index=edge_index)
+data
+quit()
+import ta_lib
+import talib
+quit()
+import talib
+quit()
+import talib
+quit90
+quit()
+import talib
+quit()
+import talib
+from talib import RSI, BBANDS, MACD
+quit()
+from talib import RSI, BBANDS, MACD
+quit()
+import talib
+quit()
+import numpy as np
+import talib
+from talib import SMS
+from talib import SMA
+from talib import RSI, BBANDS, MACD
+quit()
+import talib
+quit()
+import talib
+from talib import RSI, BBANDS, MACD
+quit()
+import numpy as np
+np.__version__
+quit()
+import talib
+import numpy as np
+from talib import RSI, BBANDS, MACD
+import matplotlib.pyplot as plt
+import seaborn as sns
+import pandas as pd
+from talib import RSI, BBANDS, MACD
+import matplotlib.pyplot as plt
+quit()
+import talib
+quit()
+import talib
+quit()
+import talib
+quit()
+import talib
+quit()
+import talib
+import numpy as np
+quit()
+import talib
+quit()
+import talib
+quit()
+import talib
+quit()
+import ibapi
+quit()
+from ibapi.client import EClient
+from ibapi.wrapper import EWrapper  
+class IBapi(EWrapper, EClient):
+     def __init__(self):
+         EClient.__init__(self, self) 
+app = IBapi()
+app.connect('127.0.0.1', 7497, 123)
+app.run()
+'''
+#Uncomment this section if unable to connect
+#and to prevent errors on a reconnect
+import time
+time.sleep(2)
+app.disconnect()
+'''
+from ibapi.client import EClient
+quit()
+from ibapi.client import EClient
+from ibapi.wrapper import EWrapper
+class IBapi(EWrapper, EClient):
+     def __init__(self):
+         EClient.__init__(self, self) 
+app = IBapi()
+app.connect('127.0.0.1', 7497, 123)
+quit()
+import matplotlib
+import matplotlib.pyplot as plt
+quit()
+import scipy
+import torch
+quit()
+main()
+quit()
+import torch
+from torch_geometric.datasets import Planetoid # The citation network datasets “Cora”, “CiteSeer” and “PubMed” 
+quit()
+import ibapi
+quit()
+quit;
+exit
+exit()
+import dash
+quit()
+import flask
+flask.__version__
+quit()
+import ibapi
+exit()
+import ibapi
+quit()
+import pandas
+import yfinance
+quit()
+import polygon
+polygon.__version__
+quit()
+import os
+from os.path import join
+os.chdir("STEGO/src")
+saved_models_dir = join("..", "saved_models")
+os.makedirs(saved_models_dir, exist_ok=True)
+quit()
+import os
+from os.path import join
+os.chdir("src")
+saved_models_dir = join("..", "saved_models")
+os.makedirs(saved_models_dir, exist_ok=True)
+import wget
+saved_model_url_root = "https://marhamilresearch4.blob.core.windows.net/stego-public/saved_models/"
+saved_model_name = "cocostuff27_vit_base_5.ckpt"
+if not os.path.exists(join(saved_models_dir, saved_model_name)):
+  wget.download(saved_model_url_root + saved_model_name, join(saved_models_dir, saved_model_name))
+from train_segmentation import LitUnsupervisedSegmenter
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name))
+from train_segmentation import LitUnsupervisedSegmenter
+quit()
+import train_segmentation
+quit()
+import train_segmentation
+from train_segmentation import LitUnsupervisedSegmenter
+quit()
+from train_segmentation import LitUnsupervisedSegmenter
+quit()
+from train_segmentation import LitUnsupervisedSegmenter
+quit()
+from train_segmentation import LitUnsupervisedSegmenter
+quit()
+from train_segmentation import LitUnsupervisedSegmenter
+quit()
+from train_segmentation import LitUnsupervisedSegmenter
+import torch
+quit()
+import torch
+from train_segmentation import LitUnsupervisedSegmenter
+quit()
+from train_segmentation import LitUnsupervisedSegmenter
+quit()
+from train_segmentation import LitUnsupervisedSegmenter
+quit
+quit()
+from train_segmentation import LitUnsupervisedSegmenter
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name))
+import join
+import os
+from os.path import join
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name))
+quit()
+python
+import os
+from os.path import join
+saved_models_dir = join("..", "saved_models")
+os.makedirs(saved_models_dir, exist_ok=True)
+import wget
+saved_model_url_root = "https://marhamilresearch4.blob.core.windows.net/stego-public/saved_models/"
+saved_model_name = "cocostuff27_vit_base_5.ckpt"
+if not os.path.exists(join(saved_models_dir, saved_model_name)):
+  wget.download(saved_model_url_root + saved_model_name, join(saved_models_dir, saved_model_name))
+from train_segmentation import LitUnsupervisedSegmenter
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name))
+quit()
+from train_segmentation import LitUnsupervisedSegmenter
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name))
+import os
+from os.path import join
+saved_models_dir = join("..", "saved_models")
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name))
+saved_models_dir = join("..", "saved_models")
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name))
+import wget
+saved_model_url_root = "https://marhamilresearch4.blob.core.windows.net/stego-public/saved_models/"
+saved_model_name = "cocostuff27_vit_base_5.ckpt"
+if not os.path.exists(join(saved_models_dir, saved_model_name)):
+  wget.download(saved_model_url_root + saved_model_name, join(saved_models_dir, saved_model_name))
+from train_segmentation import LitUnsupervisedSegmenter
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name)).cuda()
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name))
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name), map_location=torch.device("cpu")
+)
+import torch
+device = torch.device('cpu')
+from train_segmentation import LitUnsupervisedSegmenter
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name), device)
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name), map_location=device)
+model = LitUnsupervisedSegmenter.load_from_state_dict(join(saved_models_dir, saved_model_name), map_location=device)
+torch.load(join(saved_models_dir, saved_model_name), map_location=lambda storage, loc: storage)
+model = torch.load(join(saved_models_dir, saved_model_name), map_location=lambda storage, loc: storage)
+from PIL import Image
+import requests
+from io import BytesIO
+from torchvision.transforms.functional import to_tensor
+from utils import get_transform
+img_url ="https://marhamilresearch4.blob.core.windows.net/stego-public/sample_images/moto1.jpg"
+response = requests.get(img_url)
+img = Image.open(BytesIO(response.content))
+img = Image.open("../../t1ce_30.jpg")
+img = Image.open("../../louie_zip.jpg")
+img = Image.open("../../emmy_zip.jpg")
+transform = get_transform(448, False, "center")
+img = transform(img).unsqueeze(0)
+import torch.nn.functional as F
+from crf import dense_crf
+import torch
+with torch.no_grad():
+  code1 = model(img)
+  code2 = model(img.flip(dims=[3]))
+  code  = (code1 + code2.flip(dims=[3])) / 2
+  code = F.interpolate(code, img.shape[-2:], mode='bilinear', align_corners=False)
+  # code = F.interpolate(code, img.shape[-2:], mode='trilinear')
+  linear_probs = torch.log_softmax(model.linear_probe(code), dim=1).cpu()
+  cluster_probs = model.cluster_probe(code, 2, log_probs=True).cpu()
+  single_img = img[0].cpu()
+  linear_pred = dense_crf(single_img, linear_probs[0]).argmax(0)
+  cluster_pred = dense_crf(single_img, cluster_probs[0]).argmax(0)
+with torch.no_grad():
+  code1 = model(img)
+  code2 = model(img.flip(dims=[3]))
+  code  = (code1 + code2.flip(dims=[3])) / 2
+  code = F.interpolate(code, img.shape[-2:], mode='bilinear', align_corners=False)
+  # code = F.interpolate(code, img.shape[-2:], mode='trilinear')
+  linear_probs = torch.log_softmax(model.linear_probe(code), dim=1).cpu()
+  cluster_probs = model.cluster_probe(code, 2, log_probs=True).cpu()
+  single_img = img[0].cpu()
+  linear_pred = dense_crf(single_img, linear_probs[0]).argmax(0)
+  cluster_pred = dense_crf(single_img, cluster_probs[0]).argmax(0)
+with torch.no_grad():
+code1 = model(img)
+torch.no_grad()
+  code1 = model(img)
+  code2 = model(img.flip(dims=[3]))
+  code  = (code1 + code2.flip(dims=[3])) / 2
+  code = F.interpolate(code, img.shape[-2:], mode='bilinear', align_corners=False)
+  # code = F.interpolate(code, img.shape[-2:], mode='trilinear')
+  linear_probs = torch.log_softmax(model.linear_probe(code), dim=1).cpu()
+  cluster_probs = model.cluster_probe(code, 2, log_probs=True).cpu()
+  single_img = img[0].cpu()
+  linear_pred = dense_crf(single_img, linear_probs[0]).argmax(0)
+  cluster_pred = dense_crf(single_img, cluster_probs[0]).argmax(0)
+code1 = model(img)
+model(img)
+from train_segmentation import LitUnsupervisedSegmenter
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name))
+quit()
+from train_segmentation import LitUnsupervisedSegmenter
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name))
+import os
+from os.path import join
+saved_models_dir = join("..", "saved_models")
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name))
+import wget
+saved_model_url_root = "https://marhamilresearch4.blob.core.windows.net/stego-public/saved_models/"
+saved_model_name = "cocostuff27_vit_base_5.ckpt"
+if not os.path.exists(join(saved_models_dir, saved_model_name)):
+  wget.download(saved_model_url_root + saved_model_name, join(saved_models_dir, saved_model_name))
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name))
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name), device="cpu")
+quit()
+import os
+from os.path import join
+saved_models_dir = join("..", "saved_models")
+import wget
+saved_model_url_root = "https://marhamilresearch4.blob.core.windows.net/stego-public/saved_models/"
+saved_model_name = "cocostuff27_vit_base_5.ckpt"
+if not os.path.exists(join(saved_models_dir, saved_model_name)):
+  wget.download(saved_model_url_root + saved_model_name, join(saved_models_dir, saved_model_name))
+from train_segmentation import LitUnsupervisedSegmenter
+# model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name)).cuda()
+model = LitUnsupervisedSegmenter.load_from_checkpoint(join(saved_models_dir, saved_model_name))
+quit()
+import boto3
+client = boto3.client('dynamodb')
+quit()
+import boto3
+s3 = boto3.resource('s3')
+s3
+# Print out bucket names
+for bucket in s3.buckets.all():
+    print(bucket.name)
+dynamo_client = boto3.resource('dynamodb')
+dynamo_client.get_available_subresources()
+product_table = dynamo_client.Table('product_table1')
+product_table.table_status
+product_table = dynamo_client.Table('product_1')
+product_table.table_status
+product_table = dynamo_client.Table('product1')
+product_table.table_status
+product_table.put_item(Item = {'product_id':"AV004","Brand":"Lacoste","Price":7800,"Sale":"Online"})
+data = '''
+{'Items': [{'average_rating': Decimal('4'),
+'category':'Shoes',
+'brankd':'Nike',
+'price':'Decimal('2812'),
+'product_id':'123XXX'
+'shoe_category':'Sports'}]}
+'''
+data
+product_table.put_item(Item = {'product_id':"AV004","Brand":"Lacoste","Price":7800,"Sale":"Online"})
+product_table.get_item(Key = {'product_id':'AV002'})
+product_table.put_item(Item = {'product_id':"AV004","Brand":"Lacoste","Price":7800,"Sale":"Online"})
+product_table.get_item(Key = {'product_id':'AV002'})
+Updating Records
+Using the update_item method we can update any records. If you want to update multiple records we need to make use of a list of all the keys to identify the records that need to be updated.
+product_table.update_item(Key = {'product_id':'AV002'},
+                         UpdateExpression = 'set Price =:S',
+                         ExpressionAttributeValues = {":S":2000})
+Deleting Records
+Using the method delete_item we can delete a record or multiple records as well.
+product_table.delete_item(Key = {'product_id':'AV002'})
+Deleting Records
+Using the method delete_item we can delete a record or multiple records as well.
+product_table.delete_item(Key = {'product_id':'AV002'})
+Querying the Records
+Querying the records with Dynamo Db is done using the Scan function. we need to give conditions and it scans for every row.
+We want to return all attributes of records where the average rating of products is equal to 4
+from boto3.dynamodb.conditions import Attr
+product_table.scan(Select = "ALL_ATTRIBUTES",
+                  FilterExpression = Attr("average_rating").eq(4))
+product_table.scan(Select = "ALL_ATTRIBUTES",
+                  FilterExpression = Attr('average_rating').eq(4) & Attr('category').eq('Shoes'))
+quit()
+df = spark.read.json("logs.json")
+df.where("age > 21").select("name.first").show()
+quit()
+ lines = sc.textFile("README.md")  
+lines = sc.textFile("README.md")  
+lines
+lines.count()
+lines.first()
+sc
+import readline
+readline.write_history_file('x.txt')
