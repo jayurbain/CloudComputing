@@ -179,9 +179,7 @@ Extra content:
 
 [Data Platforms](https://docs.google.com/presentation/d/1wCImXY9Q3KWbhLS0q-s5ndKnrPaC9zbq4hdFOW8xK1I/edit?usp=sharing)
 
-[Lab 7 Part 1](https://docs.google.com/document/d/1mnORjsRg634MG5JCOO6dU3wGlIyBHqQPEqzJ1yOlroQ/edit?usp=sharing)
-
-[Lab 7 Part 2]() # not posted yet
+[Lab 7 Part 1 & 2](https://docs.google.com/document/d/1mnORjsRg634MG5JCOO6dU3wGlIyBHqQPEqzJ1yOlroQ/edit?usp=sharing)
 
 References:    
 
@@ -191,11 +189,16 @@ References:
 
 ### Week 8: Machine Learning on Large Distributed Datasets   
 
-<!--
-[Big Data with Spark](http://jayurbain.com/msoe/cs4230/slides/spark.pdf)
+[Scalable Machine Learning](https://docs.google.com/presentation/d/1XIHAxrk4uE2CMW2d3rFkXdAY9w1lDTSLwrsW-dwAPr0/edit?usp=sharing)
 
-[Lab 7: Spark Intro](http://jayurbain.com/msoe/cs4230/cs4230-lab7-spark.pdf)
--->
+[Machine Learning Intro](https://docs.google.com/presentation/d/1R6A_0nqWS7H_6AVnm0L1K8zPy6aReFBFMT0auo5l7Dc/edit?usp=sharing)
+
+[Lab 8 Scalable Linear Regresion using Spark]() # will be posted
+
+References:    
+[Introduction to MLOps - Databricks](introduction-to-mlops-aws.pdf)
+
+[The Big Book of MLOps - Databricks](The-Big-Book-of-MLOps-v6-082322.pdf)
 
 <!--
 Reading:   
