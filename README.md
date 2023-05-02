@@ -193,7 +193,7 @@ References:
 
 [Machine Learning Intro](https://docs.google.com/presentation/d/1R6A_0nqWS7H_6AVnm0L1K8zPy6aReFBFMT0auo5l7Dc/edit?usp=sharing)
 
-[Lab 8 Scalable Linear Regresion using Spark]() # will be posted
+[Lab 8 Scalable Linear Regresion using Spark](labs/PySpark/Tutorial 6 - Pyspark - Machine Learning .ipynb) 
 
 References:    
 [Introduction to MLOps - Databricks](introduction-to-mlops-aws.pdf)
