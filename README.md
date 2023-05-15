@@ -220,11 +220,17 @@ Reading:
 
 [Event Streaming, Apache Kafka](https://docs.google.com/presentation/d/1XCsam3_Nr90Y8xqfzg2tK-6q_FO2IigyOevGchaRnEU/edit?usp=sharing)
 
-[Lab 10 Apache Kafka](https://docs.google.com/document/d/1-gVXVt44DQpBxvY-hRJr-RWrez1oe9C0NAU296c9bLM/edit?usp=sharing)
+[Lab 10 Apache Kafka - Part 1](https://docs.google.com/document/d/1-gVXVt44DQpBxvY-hRJr-RWrez1oe9C0NAU296c9bLM/edit?usp=sharing)
 
 ### Week 10: Open Topic, Finish Kafka, Review
 
+[Lab 10 Apache Kafka - Part 2](https://docs.google.com/document/d/1bzUXK8VPxLlhEQyVER_atenLRzkLnWzctmDau561vKs/edit?usp=sharing)
+
+[Final Exam Review]()
+
+<!--
 [Final Exam Review](http://jayurbain.com/msoe/cs4230/CS4230-final-exam-study-guide.pdf)
+-->
 
 ### Week 11: Final Exam 
 
