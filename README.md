@@ -80,7 +80,7 @@ References:
 
 [Lab 2: Most Excellent Flask EC2 Web App on AWS](https://docs.google.com/document/d/1SeYCrRIlKWzPCu04Jx4rJGFggfuHj2FbDh7IVQAO0LY/edit?usp=sharing)
 
-[Lab 2: Flask Elastic Beanstalk Web App on AWS](https://docs.google.com/document/d/1KA7DlPtYOd4JO3J8fygLDxEtw36hgIoeduiac0XIPIY/edit?usp=sharing)
+[Lab 3: Flask Elastic Beanstalk Web App on AWS](https://docs.google.com/document/d/1KA7DlPtYOd4JO3J8fygLDxEtw36hgIoeduiac0XIPIY/edit?usp=sharing)
 
 [4. Auto Scaling Computing Clusters](http://jayurbain.com/msoe/cs4230/slides/cs4230-autoscaling-4.pdf)
 
@@ -99,7 +99,7 @@ Reading:
 
 [Lab 4: Docker](https://docs.google.com/document/d/1O2coHp9cKl_PWLVcEVvlgebWFlIZXLntHSH0Hffa5K0/edit?usp=sharing)
 
-[6. Container Orchestration](slides/Container Orchestration.pdf)
+[6. Container Orchestration](slides/Container%20Orchestration.pdf)
 
 Reference:  
 Install Python, pip, and the EB CLI on Linux (Thanks Harry Kubiak!)     
@@ -141,7 +141,7 @@ References:
 
 [8. Technologies for Scalable Distribution, AWS Dynamo](slides/dynamo-5.pdf)
 
-[lab 17: DynamoDB Web App](https://docs.google.com/document/d/1crUDhpT3c5uzKunTMMiwFSU2IPuiN0YJKNvMcrSeTKs/edit?usp=sharing)
+[Lab 17: DynamoDB Web App](https://docs.google.com/document/d/1crUDhpT3c5uzKunTMMiwFSU2IPuiN0YJKNvMcrSeTKs/edit?usp=sharing)
 
 
 <!--
