@@ -226,6 +226,8 @@ Reading:
 
 [Lab 10 Apache Kafka - Part 2](https://docs.google.com/document/d/1bzUXK8VPxLlhEQyVER_atenLRzkLnWzctmDau561vKs/edit?usp=sharing)
 
+[State of the Cloud](https://docs.google.com/presentation/d/1FsL8-mNcWua2fg39Br2s0JsZSi9k_ZC2wLqVDnr-5-8/edit?usp=sharing)
+
 [Final Exam Review](https://docs.google.com/document/d/1JbsQ9ldGd9tRg6e0CeG0fYnMGa4YPMq-zCCWy8DcN4c/edit?usp=sharing)
 
 ### Week 11: Final Exam 
